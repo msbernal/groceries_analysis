@@ -1,9 +1,8 @@
-# Grocerie Shopping pattern analysis
+# [Grocerie Shopping pattern analysis (Jupyter Notebook)](https://github.com/msbernal/groceries_analysis/blob/main/groceries_analysis.ipynb)
 
 ## Project Overview
 
 In this project I worked with the Groceries Database to find patterns in the groceries consumption over the 2 years of data provided. The data provided is a relatively simple and clean dataset with which we can explore different time series techniques. 
-
 
 ### What you will find
 
